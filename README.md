@@ -5,6 +5,10 @@
 
 > 📚 We also include papers that, while not strictly about generation, demonstrate valuable techniques and insights for 3D generation research.
 
+> 🏠 You can also check our [Project Homepage](https://awesome3dgen.com/).
+
+🔥🔥🔥 Also check out our awesome list about [Neural CAD](https://github.com/BunnySoCrazy/Awesome-Neural-CAD).
+
 ## Mesh
 
 | Preview | Title | Publication | Links |
