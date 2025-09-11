@@ -9,6 +9,7 @@
 
 🔥🔥🔥 Also check out our awesome list about [Neural CAD](https://github.com/BunnySoCrazy/Awesome-Neural-CAD).
 
+
 ## Mesh
 
 | Preview | Title | Publication | Links |
@@ -16,6 +17,9 @@
 | <img src="assets/img/VertexRegen.jpg" width="300"> | VertexRegen: Mesh Generation with Continuous Level of Detail | arXiv 2025 | [Paper](https://arxiv.org/pdf/2508.09062) <br> [Project](https://vertexregen.github.io/) |
 | <img src="assets/img/FastMesh.jpg" width="300"> | FastMesh: Efficient Artistic Mesh Generation via Component Decoupling | arXiv 2025 | [Paper](https://arxiv.org/pdf/2508.19188) |
 | <img src="assets/img/LLaMAMesh.jpg" width="300"> | LLaMA-Mesh: Unifying 3D Mesh Generation with Language Models | arXiv 2024 | [Paper](https://arxiv.org/pdf/2411.09595) <br> [Code](https://github.com/nv-tlabs/LLaMA-Mesh) <br> [Demo](https://huggingface.co/spaces/Zhengyi/LLaMA-Mesh) |
+| <img src="assets/img/FreeMesh.jpg" width="300"> | FreeMesh: Boosting Mesh Generation with Coordinates Merging | arXiv 2025 | [Paper](https://arxiv.org/pdf/2505.13573) |
+| <img src="assets/img/MeshRFT.jpg" width="300"> | Mesh-RFT: Enhancing Mesh Generation via Fine-grained Reinforcement Fine-Tuning | arXiv 2025 | [Paper](https://arxiv.org/pdf/2505.16761) |
+| <img src="assets/img/ScalingMesh.jpg" width="300"> | Scaling mesh generation via compressive tokenization | arXiv 2024 | [Paper](https://arxiv.org/pdf/2411.07025) <br> [Project](https://whaohan.github.io/bpt/) <br> [Code](https://github.com/whaohan/bpt) |
 | <img src="assets/img/iFlame.jpg" width="300"> | iFlame: Interleaving Full and Linear Attention for Efficient Mesh Generation | arXiv 2025 | [Paper](https://arxiv.org/pdf/2503.16653) <br> [Code](https://github.com/hanxiaowang00/iFlame) |
 | <img src="assets/img/MeshSilksong.jpg" width="300"> | Mesh Silksong: Auto-Regressive Mesh Generation as Weaving Silk | arXiv 2025 | [Paper](https://arxiv.org/pdf/2507.02477) |
 | <img src="assets/img/EdgeRunner.jpg" width="300"> | EdgeRunner: Auto-regressive Auto-encoder for Artistic Mesh Generation | ICLR 2025 | [Paper](https://arxiv.org/pdf/2409.18114) <br> [Code](https://github.com/NVlabs/EdgeRunner) |
