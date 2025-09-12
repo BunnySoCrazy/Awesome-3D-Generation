@@ -38,6 +38,7 @@
 | <img src="assets/img/PolyDiff.jpg" width="300"> | PolyDiff: Generating 3D Polygonal Meshes with Diffusion Models | arXiv 2023 | [Paper](https://arxiv.org/pdf/2312.11417) |
 | <img src="assets/img/PolyGen.jpg" width="300"> | PolyGen: An Autoregressive Generative Model of 3D Meshes | ICML 2020 | [Paper](https://arxiv.org/pdf/2002.10880) <br> [Code](https://github.com/google-deepmind/deepmind-research/tree/master/polygen) |
 
+
 ## Implicit Shape Representations (SDF and Occupancy Fields, etc.)
 
 | Preview | Title | Publication | Links |
@@ -48,11 +49,13 @@
 | <img src="assets/img/HierOctFusion.jpg" width="300"> | HierOctFusion: Multi-scale Octree-based 3D Shape Generation via Part-Whole-Hierarchy Message Passing | arXiv 2024 | [Paper](https://arxiv.org/pdf/2508.11106) |
 | <img src="assets/img/TRELLIS.jpg" width="300"> | TRELLIS: Structured 3D Latents for Scalable and Versatile 3D Generation | CVPR 2025 | [Paper](https://arxiv.org/pdf/2412.01506) <br> [Code](https://github.com/microsoft/TRELLIS) |
 | <img src="assets/img/OctFusion.jpg" width="300"> | OctFusion: Octree-based Diffusion Models for 3D Shape Generation | SGP 2025 | [Paper](https://arxiv.org/pdf/2408.14732) <br> [Code](https://github.com/octree-nn/octfusion) |
+| <img src="assets/img/LaGeM.jpg" width="300"> | LaGeM: A Large Geometry Model for 3D Representation Learning and Diffusion | ICLR 2025 | [Paper](https://arxiv.org/abs/2410.01295) <br> [Code](https://github.com/1zb/LaGeM) <br> [Project](https://1zb.github.io/LaGeM/) |
 | <img src="assets/img/XCube.jpg" width="300"> | XCube: Large-Scale 3D Generative Modeling using Sparse Voxel Hierarchies | CVPR 2024 | [Paper](https://arxiv.org/pdf/2312.03806) <br> [Code](https://github.com/nv-tlabs/XCube) |
 | <img src="assets/img/SplatSDF.jpg" width="300"> | SplatSDF: Boosting Neural Implicit SDF via Gaussian Splatting Fusion | arXiv 2024 | [Paper](https://arxiv.org/pdf/2411.15468) |
 | <img src="assets/img/Mosaic-SDF.jpg" width="300"> | Mosaic-SDF for 3D Generative Models | arXiv 2024 | [Paper](https://arxiv.org/pdf/2312.09222) |
 | <img src="assets/img/CraftsMan.jpg" width="300"> | CraftsMan: High-fidelity Mesh Generation with 3D Native Generation and Interactive Geometry Refiner | arXiv 2024 | [Paper](https://arxiv.org/pdf/2405.14979) <br> [Code](https://github.com/wyysf-98/CraftsMan3D) |
 | <img src="assets/img/GSDF.jpg" width="300"> | GSDF: 3DGS Meets SDF for Improved Neural Rendering and Reconstruction | NeurIPS 2024 | [Paper](https://arxiv.org/pdf/2403.16964) |
+| <img src="assets/img/GEM3D.jpg" width="300"> | GEM3D: GEnerative Medial Abstractions for 3D Shape Synthesis | SIGGRAPH 2024 | [Paper](https://arxiv.org/abs/2402.16994) <br> [Code](https://github.com/lodurality/GEM3D_paper_code) <br> [Project](https://lodurality.github.io/GEM3D/) |
 | <img src="assets/img/SurroundSDF.jpg" width="300"> | SurroundSDF: Implicit 3D Scene Understanding Based on Signed Distance Field | CVPR 2024 | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_SurroundSDF_Implicit_3D_Scene_Understanding_Based_on_Signed_Distance_Field_CVPR_2024_paper.pdf) |
 | <img src="assets/img/HSDF.jpg" width="300"> | HSDF: Hybrid Sign and Distance Field for Neural Representation of Surfaces With Arbitrary Topologies | IEEE 2024 | [Paper](https://ieeexplore.ieee.org/document/10636762/) |
 | <img src="assets/img/3DShape2VecSet.jpg" width="300"> | 3DShape2VecSet: A 3D Shape Representation for Neural Fields and Generative Diffusion Models | ACM TOG 2023 | [Paper](https://arxiv.org/pdf/2301.11445) <br> [Code](https://github.com/1zb/3DShape2VecSet) |
@@ -63,12 +66,15 @@
 | <img src="assets/img/SDF-Diffusion.jpg" width="300"> | SDF-Diffusion: Text-to-Shape via Voxelized Diffusion | CVPR 2023 | [Paper](https://arxiv.org/pdf/2212.03293) |
 | <img src="assets/img/MeshDiffusion.jpg" width="300"> | MeshDiffusion: Score-based Generative 3D Mesh Modeling | ICLR 2023 | [Paper](https://arxiv.org/pdf/2303.08133) <br> [Code](https://github.com/lzzcd001/MeshDiffusion) |
 | <img src="assets/img/SDF-StyleGAN.jpg" width="300"> | SDF-StyleGAN: Implicit SDF-Based StyleGAN for 3D Shape Generation | SGP 2022 | [Paper](https://arxiv.org/pdf/2206.12055) <br> [Code](https://github.com/Zhengxinyang/SDF-StyleGAN) |
+| <img src="assets/img/neural_wavelet.jpg" width="300"> | Neural Wavelet-domain Diffusion for 3D Shape Generation, Inversion, and Manipulation | SIGGRAPH Asia 2022 <br> ACM TOG | [Paper](https://arxiv.org/abs/2302.00190) <br> [Code](https://github.com/edward1997104/Wavelet-Generation) |
 | <img src="assets/img/AutoSDF.jpg" width="300"> | AutoSDF: Shape Priors for 3D Completion, Reconstruction and Generation | CVPR 2022 | [Paper](https://arxiv.org/pdf/2203.09516) |
+| <img src="assets/img/3DILG.jpg" width="300"> | 3DILG: Irregular Latent Grids for 3D Generative Modeling | NeurIPS 2022 | [Paper](https://arxiv.org/abs/2205.13914) <br> [Code](https://github.com/1zb/3DILG) <br> [Project](https://1zb.github.io/3DILG/) |
 | <img src="assets/img/NeuS.jpg" width="300"> | NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction | NeurIPS 2021 | [Paper](https://arxiv.org/pdf/2106.10689) <br> [Code](https://github.com/Totoro97/NeuS) |
 | <img src="assets/img/SIREN.jpg" width="300"> | SIREN: Implicit Neural Representations with Periodic Activation Functions | NeurIPS 2020 | [Paper](https://arxiv.org/pdf/2006.09661) <br> [Code](https://github.com/vsitzmann/siren) |
 | <img src="assets/img/DeepSDF.jpg" width="300"> | DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation | CVPR 2019 | [Paper](https://arxiv.org/pdf/1901.05103) <br> [Code](https://github.com/facebookresearch/DeepSDF) |
 | <img src="assets/img/NDF.jpg" width="300"> | Neural Unsigned Distance Fields for Implicit Function Learning | NeurIPS 2020 |  [Paper](https://arxiv.org/pdf/2010.13938) |
 | <img src="assets/img/ConvOccNets.jpg" width="300"> | Convolutional Occupancy Networks | ECCV 2020 | [Paper](https://arxiv.org/pdf/2003.04618) <br> [Code](https://github.com/autonomousvision/convolutional_occupancy_networks) |
+| <img src="assets/img/IM-Net.jpg" width="300"> | IM-Net: Learning Implicit Fields for Generative Shape Modeling | CVPR 2019 | [Paper](https://arxiv.org/abs/1812.02822) <br> [Code](https://github.com/czq142857/implicit-decoder) |
 
 
 ## Point Cloud
@@ -216,6 +222,7 @@
 | :------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------- | :---------: | :---------------------------------------: |
 | <img src="assets/img/GenerativeHumanGeometryDistribution.jpg" width="300"> | Generative Human Geometry Distribution                                                               |  Arxiv 2025 | [Paper](https://arxiv.org/pdf/2503.01448) |
 |        <img src="assets/img/GeometryDistributions.jpg" width="300">        | Geometry Distributions                                                                               |  ICCV 2025  | [Paper](https://arxiv.org/pdf/2411.16076) |
+| <img src="assets/img/functional_diffusion.jpg" width="300"> | Functional Diffusion | CVPR 2024 | [Paper](https://arxiv.org/abs/2311.15435) <br> [Code](https://github.com/1zb/functional-diffusion) <br> [Project](https://1zb.github.io/functional-diffusion/) |
 |              <img src="assets/img/3DTopiaXL.jpg" width="300">              | 3DTopia-XL: Scaling High-quality 3D Asset Generation via Primitive Diffusion                         |  Arxiv 2024 | [Paper](https://arxiv.org/pdf/2409.12957) |
 |        <img src="assets/img/GeometryImageDiffusion.jpg" width="300">       | Geometry Image Diffusion: Fast and Data-Efficient Text-to-3D with Image-Based Surface Representation |  Arxiv 2024 | [Paper](https://arxiv.org/pdf/2409.03718) |
 |      <img src="assets/img/AnObjectIsWorth64x64Pixels.jpg" width="300">     | An Object is Worth 64×64 Pixels: Generating 3D Object via Image Diffusion                            |  Arxiv 2024 | [Paper](https://arxiv.org/pdf/2408.03178) |
