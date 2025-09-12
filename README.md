@@ -22,7 +22,10 @@
 | <img src="assets/img/ScalingMesh.jpg" width="300"> | Scaling mesh generation via compressive tokenization | arXiv 2024 | [Paper](https://arxiv.org/pdf/2411.07025) <br> [Project](https://whaohan.github.io/bpt/) <br> [Code](https://github.com/whaohan/bpt) |
 | <img src="assets/img/iFlame.jpg" width="300"> | iFlame: Interleaving Full and Linear Attention for Efficient Mesh Generation | arXiv 2025 | [Paper](https://arxiv.org/pdf/2503.16653) <br> [Code](https://github.com/hanxiaowang00/iFlame) |
 | <img src="assets/img/MeshSilksong.jpg" width="300"> | Mesh Silksong: Auto-Regressive Mesh Generation as Weaving Silk | arXiv 2025 | [Paper](https://arxiv.org/pdf/2507.02477) |
+| <img src="assets/img/MeshPad.jpg" width="300"> | MeshPad: Interactive Sketch-Conditioned Artist-Designed Mesh Generation and Editing | arXiv 2025 | [Paper](https://arxiv.org/pdf/2503.01425) <br> [Project](https://derkleineli.github.io/meshpad/) |
+| <img src="assets/img/DeepMesh.jpg" width="300"> | DeepMesh: Auto-Regressive Artist-mesh Creation with Reinforcement Learning | ICCV 2025 | [Paper](https://arxiv.org/pdf/2503.15265) <br> [Project](https://zhaorw02.github.io/DeepMesh/) <br> [Code](https://github.com/zhaorw02/DeepMesh) |
 | <img src="assets/img/EdgeRunner.jpg" width="300"> | EdgeRunner: Auto-regressive Auto-encoder for Artistic Mesh Generation | ICLR 2025 | [Paper](https://arxiv.org/pdf/2409.18114) <br> [Code](https://github.com/NVlabs/EdgeRunner) |
+| <img src="assets/img/MeshArt.jpg" width="300"> | MeshArt: Generating Articulated Meshes with Structure-guided Transformers | CVPR 2025 | [Paper](https://arxiv.org/pdf/2412.11596) <br> [Code](https://github.com/DaoyiG/MeshArt) |
 | <img src="assets/img/TreeMeshGPT.jpg" width="300"> | TreeMeshGPT: Topology-Aware Mesh Generation with Tree-Structured Graph Priors | CVPR 2025 | [Paper](https://arxiv.org/pdf/2503.11629) |
 | <img src="assets/img/Meshtron.jpg" width="300"> | Meshtron: High-Fidelity, Artist-Like 3D Mesh Generation at Scale | arXiv 2024 | [Paper](https://arxiv.org/pdf/2412.09548) |
 | <img src="assets/img/MeshAnythingV2.jpg" width="300"> | MeshAnything V2: Artist-Created Mesh Generation With Adjacent Mesh Tokenization | arXiv 2024 | [Paper](https://arxiv.org/pdf/2408.02555) <br> [Code](https://github.com/buaacyw/MeshAnything) |
@@ -31,10 +34,8 @@
 | <img src="assets/img/MeshFormer.jpg" width="300"> | MeshFormer: High-Quality Mesh Generation with 3D-Guided Reconstruction Model | arXiv 2024 | [Paper](https://arxiv.org/pdf/2408.10198) |
 | <img src="assets/img/PivotMesh.jpg" width="300"> | PivotMesh: Generic 3D Mesh Generation via Pivot Vertices Guidance | arXiv 2024 | [Paper](https://arxiv.org/pdf/2405.16890) |
 | <img src="assets/img/MeshAnything.jpg" width="300"> | MeshAnything: Artist-Created Mesh Generation with Autoregressive Transformers | arXiv 2024 | [Paper](https://arxiv.org/pdf/2406.10163) <br> [Code](https://github.com/buaacyw/MeshAnything) |
-| <img src="assets/img/CraftsMan.jpg" width="300"> | CraftsMan: High-fidelity Mesh Generation with 3D Native Generation and Interactive Geometry Refiner | arXiv 2024 | [Paper](https://arxiv.org/pdf/2405.14979) <br> [Code](https://github.com/wyysf-98/CraftsMan3D) |
 | <img src="assets/img/MeshGPT.jpg" width="300"> | MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers | CVPR 2024 | [Paper](https://arxiv.org/pdf/2311.15475) <br> [Code](https://github.com/lucidrains/meshgpt-pytorch) |
 | <img src="assets/img/PolyDiff.jpg" width="300"> | PolyDiff: Generating 3D Polygonal Meshes with Diffusion Models | arXiv 2023 | [Paper](https://arxiv.org/pdf/2312.11417) |
-| <img src="assets/img/MeshDiffusion.jpg" width="300"> | MeshDiffusion: Score-based Generative 3D Mesh Modeling | ICLR 2023 | [Paper](https://arxiv.org/pdf/2303.08133) <br> [Code](https://github.com/lzzcd001/MeshDiffusion) |
 | <img src="assets/img/PolyGen.jpg" width="300"> | PolyGen: An Autoregressive Generative Model of 3D Meshes | ICML 2020 | [Paper](https://arxiv.org/pdf/2002.10880) <br> [Code](https://github.com/google-deepmind/deepmind-research/tree/master/polygen) |
 
 ## Implicit Shape Representations (SDF and Occupancy Fields, etc.)
@@ -50,6 +51,7 @@
 | <img src="assets/img/XCube.jpg" width="300"> | XCube: Large-Scale 3D Generative Modeling using Sparse Voxel Hierarchies | CVPR 2024 | [Paper](https://arxiv.org/pdf/2312.03806) <br> [Code](https://github.com/nv-tlabs/XCube) |
 | <img src="assets/img/SplatSDF.jpg" width="300"> | SplatSDF: Boosting Neural Implicit SDF via Gaussian Splatting Fusion | arXiv 2024 | [Paper](https://arxiv.org/pdf/2411.15468) |
 | <img src="assets/img/Mosaic-SDF.jpg" width="300"> | Mosaic-SDF for 3D Generative Models | arXiv 2024 | [Paper](https://arxiv.org/pdf/2312.09222) |
+| <img src="assets/img/CraftsMan.jpg" width="300"> | CraftsMan: High-fidelity Mesh Generation with 3D Native Generation and Interactive Geometry Refiner | arXiv 2024 | [Paper](https://arxiv.org/pdf/2405.14979) <br> [Code](https://github.com/wyysf-98/CraftsMan3D) |
 | <img src="assets/img/GSDF.jpg" width="300"> | GSDF: 3DGS Meets SDF for Improved Neural Rendering and Reconstruction | NeurIPS 2024 | [Paper](https://arxiv.org/pdf/2403.16964) |
 | <img src="assets/img/SurroundSDF.jpg" width="300"> | SurroundSDF: Implicit 3D Scene Understanding Based on Signed Distance Field | CVPR 2024 | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_SurroundSDF_Implicit_3D_Scene_Understanding_Based_on_Signed_Distance_Field_CVPR_2024_paper.pdf) |
 | <img src="assets/img/HSDF.jpg" width="300"> | HSDF: Hybrid Sign and Distance Field for Neural Representation of Surfaces With Arbitrary Topologies | IEEE 2024 | [Paper](https://ieeexplore.ieee.org/document/10636762/) |
@@ -59,6 +61,7 @@
 | <img src="assets/img/CSG-Neural-SDF.jpg" width="300"> | Constructive Solid Geometry on Neural Signed Distance Fields | ACM SIGGRAPH Asia 2023 | [Paper](https://dl.acm.org/doi/fullHtml/10.1145/3610548.3618170) <br> [Project](https://zoemarschner.com/research/csg_on_neural_sdfs.html) |
 | <img src="assets/img/SDFusion.jpg" width="300"> | SDFusion: Multimodal 3D Shape Completion, Reconstruction, and Generation | CVPR 2023 | [Paper](https://yccyenchicheng.github.io/SDFusion/) <br> [Code](https://github.com/yccyenchicheng/SDFusion) |
 | <img src="assets/img/SDF-Diffusion.jpg" width="300"> | SDF-Diffusion: Text-to-Shape via Voxelized Diffusion | CVPR 2023 | [Paper](https://arxiv.org/pdf/2212.03293) |
+| <img src="assets/img/MeshDiffusion.jpg" width="300"> | MeshDiffusion: Score-based Generative 3D Mesh Modeling | ICLR 2023 | [Paper](https://arxiv.org/pdf/2303.08133) <br> [Code](https://github.com/lzzcd001/MeshDiffusion) |
 | <img src="assets/img/SDF-StyleGAN.jpg" width="300"> | SDF-StyleGAN: Implicit SDF-Based StyleGAN for 3D Shape Generation | SGP 2022 | [Paper](https://arxiv.org/pdf/2206.12055) <br> [Code](https://github.com/Zhengxinyang/SDF-StyleGAN) |
 | <img src="assets/img/AutoSDF.jpg" width="300"> | AutoSDF: Shape Priors for 3D Completion, Reconstruction and Generation | CVPR 2022 | [Paper](https://arxiv.org/pdf/2203.09516) |
 | <img src="assets/img/NeuS.jpg" width="300"> | NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction | NeurIPS 2021 | [Paper](https://arxiv.org/pdf/2106.10689) <br> [Code](https://github.com/Totoro97/NeuS) |
@@ -186,6 +189,7 @@
 | <img src="assets/img/BANG.jpg" width="300"> | BANG: Dividing 3D Assets via Generative Exploded Dynamics | arXiv 2025 | [Paper](https://arxiv.org/pdf/2507.21493) |
 | <img src="assets/img/Assembler.jpg" width="300"> | Assembler: Scalable 3D Part Assembly via Anchor Point Diffusion | arXiv 2025 | [Paper](https://arxiv.org/pdf/2506.17074) |
 | <img src="assets/img/DualVolumePacking.jpg" width="300"> | Efficient Part-level 3D Object Generation via Dual Volume Packing | arXiv 2025 | [Paper](https://arxiv.org/pdf/2506.09980) |
+| <img src="assets/img/MeshArt.jpg" width="300"> | MeshArt: Generating Articulated Meshes with Structure-guided Transformers | CVPR 2025 | [Paper](https://arxiv.org/pdf/2412.11596) <br> [Code](https://github.com/DaoyiG/MeshArt) |
 | <img src="assets/img/PrimitiveAnything.jpg" width="300"> | PrimitiveAnything: Human-Crafted 3D Primitive Assembly Generation with Auto-Regressive Transformer | SIGGRAPH 2025 | [Paper](https://arxiv.org/pdf/2505.04622) <br> [Code](https://github.com/PrimitiveAnything/PrimitiveAnything) |
 | <img src="assets/img/OmniPart.jpg" width="300"> | OmniPart: Part-Aware 3D Generation with Semantic Decoupling and Structural Cohesion | arXiv 2025 | [Paper](https://arxiv.org/pdf/2507.06165) |
 | <img src="assets/img/PartCrafter.jpg" width="300"> | PartCrafter: Structured 3D Mesh Generation via Compositional Latent Diffusion Transformers | arXiv 2025 | [Paper](https://arxiv.org/pdf/2506.05573) |
