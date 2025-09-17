@@ -31,7 +31,6 @@
 | <img src="assets/img/MeshAnythingV2.jpg" width="300"> | MeshAnything V2: Artist-Created Mesh Generation With Adjacent Mesh Tokenization | arXiv 2024 | [Paper](https://arxiv.org/pdf/2408.02555) <br> [Code](https://github.com/buaacyw/MeshAnything) |
 | <img src="assets/img/MeshXL.jpg" width="300"> | MeshXL: Neural Coordinate Field for Generative 3D Foundation Models | NeurIPS 2024 | [Paper](https://arxiv.org/pdf/2405.20853) <br> [Code](https://github.com/OpenMeshLab/MeshXL) |
 | <img src="assets/img/SpaceMesh.jpg" width="300"> | SpaceMesh: A Continuous Representation for Learning Manifold Surface Meshes | SIGGRAPH Asia 2024 | [Paper](https://arxiv.org/pdf/2409.20562) <br> [Project](https://research.nvidia.com/labs/toronto-ai/space-mesh/) |
-| <img src="assets/img/MeshFormer.jpg" width="300"> | MeshFormer: High-Quality Mesh Generation with 3D-Guided Reconstruction Model | arXiv 2024 | [Paper](https://arxiv.org/pdf/2408.10198) |
 | <img src="assets/img/PivotMesh.jpg" width="300"> | PivotMesh: Generic 3D Mesh Generation via Pivot Vertices Guidance | arXiv 2024 | [Paper](https://arxiv.org/pdf/2405.16890) |
 | <img src="assets/img/MeshAnything.jpg" width="300"> | MeshAnything: Artist-Created Mesh Generation with Autoregressive Transformers | arXiv 2024 | [Paper](https://arxiv.org/pdf/2406.10163) <br> [Code](https://github.com/buaacyw/MeshAnything) |
 | <img src="assets/img/MeshGPT.jpg" width="300"> | MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers | CVPR 2024 | [Paper](https://arxiv.org/pdf/2311.15475) <br> [Code](https://github.com/lucidrains/meshgpt-pytorch) |
@@ -52,6 +51,7 @@
 | <img src="assets/img/LaGeM.jpg" width="300"> | LaGeM: A Large Geometry Model for 3D Representation Learning and Diffusion | ICLR 2025 | [Paper](https://arxiv.org/abs/2410.01295) <br> [Code](https://github.com/1zb/LaGeM) <br> [Project](https://1zb.github.io/LaGeM/) |
 | <img src="assets/img/XCube.jpg" width="300"> | XCube: Large-Scale 3D Generative Modeling using Sparse Voxel Hierarchies | CVPR 2024 | [Paper](https://arxiv.org/pdf/2312.03806) <br> [Code](https://github.com/nv-tlabs/XCube) |
 | <img src="assets/img/SplatSDF.jpg" width="300"> | SplatSDF: Boosting Neural Implicit SDF via Gaussian Splatting Fusion | arXiv 2024 | [Paper](https://arxiv.org/pdf/2411.15468) |
+| <img src="assets/img/MeshFormer.jpg" width="300"> | MeshFormer: High-Quality Mesh Generation with 3D-Guided Reconstruction Model | arXiv 2024 | [Paper](https://arxiv.org/pdf/2408.10198) |
 | <img src="assets/img/Mosaic-SDF.jpg" width="300"> | Mosaic-SDF for 3D Generative Models | arXiv 2024 | [Paper](https://arxiv.org/pdf/2312.09222) |
 | <img src="assets/img/CraftsMan.jpg" width="300"> | CraftsMan: High-fidelity Mesh Generation with 3D Native Generation and Interactive Geometry Refiner | arXiv 2024 | [Paper](https://arxiv.org/pdf/2405.14979) <br> [Code](https://github.com/wyysf-98/CraftsMan3D) |
 | <img src="assets/img/GSDF.jpg" width="300"> | GSDF: 3DGS Meets SDF for Improved Neural Rendering and Reconstruction | NeurIPS 2024 | [Paper](https://arxiv.org/pdf/2403.16964) |
