@@ -201,8 +201,10 @@
 | <img src="assets/img/PartCrafter.jpg" width="300"> | PartCrafter: Structured 3D Mesh Generation via Compositional Latent Diffusion Transformers | arXiv 2025 | [Paper](https://arxiv.org/pdf/2506.05573) |
 | <img src="assets/img/HoloPart.jpg" width="300"> | HoloPart: Generative 3D Part Amodal Segmentation | arXiv 2025 | [Paper](https://arxiv.org/pdf/2504.07943) <br> [Code](https://github.com/VAST-AI-Research/HoloPart) |
 | <img src="assets/img/SPAFormer.jpg" width="300"> | SPAFormer: Sequential 3D Part Assembly with Transformers | 3DV 2025 | [Paper](https://arxiv.org/pdf/2403.05874) <br> [Code](https://github.com/xuboshen/SPAFormer) |
+| <img src="assets/img/PASTA.jpg" width="300"> | PASTA: Controllable Part-Aware Shape Generation with Autoregressive Transformers | arXiv 2024 | [Paper](https://arxiv.org/pdf/2407.13677) |
 | <img src="assets/img/PartGen.jpg" width="300"> | PartGen: Part-level 3D Generation and Reconstruction with Multi-View Diffusion Models | arXiv 2024 | [Paper](https://arxiv.org/pdf/2412.18608) <br> [Project](https://silent-chen.github.io/PartGen/) |
 | <img src="assets/img/Part123.jpg" width="300"> | Part123: Part-aware 3D Reconstruction from a Single-view Image | SIGGRAPH 2024 | [Paper](https://arxiv.org/pdf/2405.16888) <br> [Project](https://liuar0512.github.io/part123_official_page/) |
+| <img src="assets/img/DAE-NET.jpg" width="300"> | DAE-Net: Deforming Auto-Encoder for fine-grained shape co-segmentation | SIGGRAPH 2024 | [Paper](https://arxiv.org/pdf/2311.13125) <br> [Code](https://github.com/czq142857/DAE-Net) |
 | <img src="assets/img/StructureNet.jpg" width="300"> | StructureNet: Hierarchical Graph Networks for 3D Shape Generation | SIGGRAPH Asia 2019 | [Paper](https://arxiv.org/pdf/1908.00575) <br> [Code](https://github.com/daerduoCarey/structurenet) |
 | <img src="assets/img/PartNet.jpg" width="300"> | PartNet: A Large-scale Benchmark for Fine-grained and Hierarchical Part-level 3D Object Understanding | CVPR 2019 | [Paper](https://arxiv.org/pdf/1812.02713) [Dataset](https://partnet.cs.stanford.edu/) |
 | <img src="assets/img/GenerativePArt.jpg" width="300"> | Generative 3D Part Assembly via Dynamic Graph Learning | NeurIPS 2020 | [Paper](https://arxiv.org/pdf/2006.07793) <br> [Code](https://github.com/hyperplane-lab/Generative-3D-Part-Assembly) |
@@ -215,6 +217,9 @@
 | <img src="assets/img/ShapeAssembly.jpg" width="300"> | ShapeAssembly: Learning to Generate Programs for 3D Shape Structure Synthesis | SIGGRAPH Asia 2020 | [Paper](https://arxiv.org/pdf/2009.08026) <br> [Code](https://github.com/rkjones4/ShapeAssembly) |
 | <img src="assets/img/PartVAE.jpg" width="300"> | Part-based 3D Object Reconstruction from a Single RGB Image | arXiv 2021 | [Paper](https://arxiv.org/pdf/2111.10180) |
 | <img src="assets/img/PartSLIP.jpg" width="300"> | PartSLIP: Low-shot Part Segmentation for 3D Point Clouds via Pretrained Image-Language Models | CVPR 2023 | [Paper](https://arxiv.org/pdf/2212.01558) <br> [Code](https://github.com/colin97/PartSLIP) |
+| <img src="assets/img/ProGRIP.jpg" width="300"> | Unsupervised Learning of Shape Programs with Repeatable Implicit Parts | NeurIPS 2022 | [Paper](https://papers.nips.cc/paper_files/paper/2022/hash/f6adf61977467560f79b95485d1f3a79-Abstract-Conference.html) <br> [Project](https://progrip-project.github.io/) |
+| <img src="assets/img/SPAGHETTI.jpg" width="300"> | SPAGHETTI: Editing Implicit Shapes Through Part Aware Generation | ACM TOG 2022 | [Paper](https://arxiv.org/pdf/2201.13168) <br> [Code](https://github.com/amirhertz/spaghetti) <br> [Project](https://amirhertz.github.io/spaghetti/) |
+| <img src="assets/img/BAE-NET.jpg" width="300"> | BAE-NET: Branched Autoencoder for Shape Co-Segmentation | ICCV 2019 | [Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_BAE-NET_Branched_Autoencoder_for_Shape_Co-Segmentation_ICCV_2019_paper.pdf) <br> [Code](https://github.com/czq142857/BAE-NET) |
 
 
 ## Others (Not yet classified)
