@@ -208,7 +208,7 @@
 | <img src="assets/img/StructureNet.jpg" width="300"> | StructureNet: Hierarchical Graph Networks for 3D Shape Generation | SIGGRAPH Asia 2019 | [Paper](https://arxiv.org/pdf/1908.00575) <br> [Code](https://github.com/daerduoCarey/structurenet) |
 | <img src="assets/img/PartNet.jpg" width="300"> | PartNet: A Large-scale Benchmark for Fine-grained and Hierarchical Part-level 3D Object Understanding | CVPR 2019 | [Paper](https://arxiv.org/pdf/1812.02713) [Dataset](https://partnet.cs.stanford.edu/) |
 | <img src="assets/img/GenerativePArt.jpg" width="300"> | Generative 3D Part Assembly via Dynamic Graph Learning | NeurIPS 2020 | [Paper](https://arxiv.org/pdf/2006.07793) <br> [Code](https://github.com/hyperplane-lab/Generative-3D-Part-Assembly) |
-| <img src="assets/img/ComplementMe.jpg" width="300"> | ComplementMe: Weakly-Supervised Component Suggestions for 3D Modeling | SIGGRAPH Asia 2022 | [Paper](https://arxiv.org/pdf/1708.01841) |
+| <img src="assets/img/ComplementMe.jpg" width="300"> | ComplementMe: Weakly-Supervised Component Suggestions for 3D Modeling | SIGGRAPH Asia 2017 | [Paper](https://arxiv.org/pdf/1708.01841) |
 | <img src="assets/img/BSP-Net.jpg" width="300"> | BSP-Net: Generating Compact Meshes via Binary Space Partitioning | CVPR 2020 | [Paper](https://arxiv.org/pdf/1911.06971) <br> [Code](https://github.com/czq142857/BSP-NET-pytorch) |
 | <img src="assets/img/GRASS.jpg" width="300"> | GRASS: Generative Recursive Autoencoders for Shape Structures | SIGGRAPH 2017 | [Paper](https://arxiv.org/pdf/1705.02090) |
 | <img src="assets/img/PAGNet.jpg" width="300"> | Learning Part Generation and Assembly for Structure-Aware Shape Synthesis | AAAI 2020 | [Paper](https://arxiv.org/pdf/1906.06693) |
