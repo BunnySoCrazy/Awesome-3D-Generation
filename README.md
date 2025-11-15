@@ -14,6 +14,9 @@
 
 | Preview | Title | Publication | Links |
 |:---:|:---|:---:|:---:|
+| <img src="assets/img/QuadGPT.jpg" width="300"> | QuadGPT: Native Quadrilateral Mesh Generation with Autoregressive Models | arXiv 2025 | [Paper](https://arxiv.org/pdf/2509.21420) |
+| <img src="assets/img/ARMesh.jpg" width="300"> | ARMesh: Autoregressive Mesh Generation via Next-Level-of-Detail Prediction | arXiv 2025 | [Paper](https://arxiv.org/pdf/2509.20824) <br> [Project](https://jblei.site/proj/armesh) |
+| <img src="assets/img/MeshCoder.jpg" width="300"> | MeshCoder: LLM-Powered Structured Mesh Code Generation from Point Clouds | arXiv 2025 | [Paper](https://arxiv.org/pdf/2508.14879) <br> [Project](https://daibingquan.github.io/MeshCoder/) <br> [Code](https://github.com/InternRobotics/MeshCoder) |
 | <img src="assets/img/VertexRegen.jpg" width="300"> | VertexRegen: Mesh Generation with Continuous Level of Detail | arXiv 2025 | [Paper](https://arxiv.org/pdf/2508.09062) <br> [Project](https://vertexregen.github.io/) |
 | <img src="assets/img/FastMesh.jpg" width="300"> | FastMesh: Efficient Artistic Mesh Generation via Component Decoupling | arXiv 2025 | [Paper](https://arxiv.org/pdf/2508.19188) |
 | <img src="assets/img/LLaMAMesh.jpg" width="300"> | LLaMA-Mesh: Unifying 3D Mesh Generation with Language Models | arXiv 2024 | [Paper](https://arxiv.org/pdf/2411.09595) <br> [Code](https://github.com/nv-tlabs/LLaMA-Mesh) <br> [Demo](https://huggingface.co/spaces/Zhengyi/LLaMA-Mesh) |
@@ -192,6 +195,8 @@
 
 | Preview | Title | Publication | Links |
 |:---:|:---|:---:|:---:|
+| <img src="assets/img/PartNeXt.jpg" width="300"> | PartNeXt: A Next-Generation Dataset for Fine-Grained and Hierarchical 3D Part Understanding | arXiv 2025 | [Paper](https://arxiv.org/pdf/2510.20155) |
+| <img src="assets/img/FullPart.jpg" width="300"> | FullPart: Generating each 3D Part at Full Resolution | arXiv 2025 | [Paper](https://arxiv.org/pdf/2510.26140) |
 | <img src="assets/img/BANG.jpg" width="300"> | BANG: Dividing 3D Assets via Generative Exploded Dynamics | arXiv 2025 | [Paper](https://arxiv.org/pdf/2507.21493) |
 | <img src="assets/img/Assembler.jpg" width="300"> | Assembler: Scalable 3D Part Assembly via Anchor Point Diffusion | arXiv 2025 | [Paper](https://arxiv.org/pdf/2506.17074) |
 | <img src="assets/img/DualVolumePacking.jpg" width="300"> | Efficient Part-level 3D Object Generation via Dual Volume Packing | arXiv 2025 | [Paper](https://arxiv.org/pdf/2506.09980) |
