@@ -10,6 +10,7 @@
 🔥🔥🔥 Also check out our awesome list about [Neural CAD](https://github.com/BunnySoCrazy/Awesome-Neural-CAD).
 
 
+
 ## Mesh
 
 | Preview | Title | Publication | Links |
@@ -242,6 +243,18 @@
 | <img src="assets/img/APAP.jpg" width="300"> | As-Plausible-As-Possible: Plausibility-Aware Mesh Deformation Using 2D Diffusion Priors | CVPR 2024 | <br> [Project](https://visualai.kaist.ac.kr/) |
 | <img src="assets/img/GET3D.jpg" width="300"> | GET3D: A Generative Model of High Quality 3D Textured Shapes Learned from Images | NeurIPS 2022 | [Paper](https://research.nvidia.com/labs/toronto-ai/GET3D/) <br> [Code](https://github.com/nv-tlabs/GET3D) |
 | <img src="assets/img/SingleMeshDiffusion.jpg" width="300"> | Single Mesh Diffusion Models with Field Latents for Texture Generation | arXiv 2023 | [Paper](https://arxiv.org/pdf/2312.09250) |
+
+
+## Industry Technical Reports
+
+| Preview | Title | Publication | Links |
+|:---:|:---|:---:|:---:|
+| <img src="assets/img/Hunyuan3D-1.jpg" width="300"> | **[Tencent]** Hunyuan3D 1.0: A Unified Framework for Text-to-3D and Image-to-3D Generation | 2024 | [Paper](https://arxiv.org/pdf/2411.02293) <br> [Code](https://github.com/Tencent-Hunyuan/Hunyuan3D-1) <br> [Demo](https://huggingface.co/spaces/Tencent-Hunyuan/Hunyuan3D-1) |
+| <img src="assets/img/Hunyuan3D-2.jpg" width="300"> | **[Tencent]** Hunyuan3D 2.0: Scaling Diffusion Models for High Resolution Textured 3D Assets Generation | 2025 | [Paper](https://arxiv.org/pdf/2501.12202) <br> [Code](https://github.com/Tencent-Hunyuan/Hunyuan3D-2) <br> [Website](https://hunyuan-3d.com/) |
+| <img src="assets/img/Hunyuan3D-2.1.jpg" width="300"> | **[Tencent]** Hunyuan3D 2.1: From Images to High-Fidelity 3D Assets with Production-Ready PBR Material | 2025 | [Paper](https://arxiv.org/pdf/2506.15442) <br> [Code](https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1) |
+| <img src="assets/img/Hunyuan3D-2.5.jpg" width="300"> | **[Tencent]** Hunyuan3D 2.5: Towards High-Fidelity 3D Assets Generation with Ultimate Details | 2025 | [Paper](https://arxiv.org/pdf/2506.16504) <br> [Code](https://github.com/Tencent-Hunyuan/Hunyuan3D-2) |
+| <img src="assets/img/Hunyuan3D-Omni.jpg" width="300"> | **[Tencent]** Hunyuan3D-Omni: A Unified Framework for Controllable Generation of 3D Assets | 2025 | [Paper](https://arxiv.org/pdf/2509.21245) <br> [Code](https://github.com/Tencent-Hunyuan/Hunyuan3D-Omni) |
+| <img src="assets/img/Seed3D.jpg" width="300"> | **[ByteDance]** Seed3D 1.0: Simulation-Ready 3D Asset Generation from Single Images | 2025 | [Paper](https://arxiv.org/pdf/2510.19944) <br> [Website](https://seed.bytedance.com/en/research) |
 
 
 ---
