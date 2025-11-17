@@ -46,6 +46,7 @@
 
 | Preview | Title | Publication | Links |
 |:---:|:---|:---:|:---:|
+| <img src="assets/img/UniLat3D.png" width="300"> | UniLat3D: Geometry-Appearance Unified Latents for Single-Stage 3D Generation | arXiv 2025 | [Paper](https://arxiv.org/pdf/2509.25079) <br> [Project](https://unilat3d.github.io/) <br> [Code](https://github.com/UniLat3D/UniLat3D) |
 | <img src="assets/img/TripoSF.jpg" width="300"> | SparseFlex: High-Resolution and Arbitrary-Topology 3D Shape Modeling (TripoSF) | arXiv 2025 | [Paper](https://arxiv.org/pdf/2503.21732) <br> [Code](https://github.com/VAST-AI-Research/TripoSF) |
 | <img src="assets/img/Ultra3D.jpg" width="300"> | Ultra3D: Efficient and High-Fidelity 3D Generation with Part Attention | arXiv 2025 | [Paper](https://arxiv.org/pdf/2507.17745.pdf) |
 | <img src="assets/img/Sparc3D.jpg" width="300"> | Sparc3D: Sparse Representation and Construction for High-Resolution 3D Shapes Modeling | arXiv 2025 | [Paper](https://arxiv.org/pdf/2505.14521) |
@@ -231,6 +232,7 @@
 ## Others (Not yet classified)
 |                                   Preview                                  | Title                                                                                                | Publication |                   Links                   |
 | :------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------- | :---------: | :---------------------------------------: |
+| <img src="assets/img/WorldGrow.png" width="300"> | WorldGrow: Generating Infinite 3D World | arXiv 2025 | [Paper](https://arxiv.org/pdf/2510.21682) <br> [Project](https://world-grow.github.io/) <br> [Code](https://github.com/world-grow/WorldGrow) |
 | <img src="assets/img/GenerativeHumanGeometryDistribution.jpg" width="300"> | Generative Human Geometry Distribution                                                               |  Arxiv 2025 | [Paper](https://arxiv.org/pdf/2503.01448) |
 |        <img src="assets/img/GeometryDistributions.jpg" width="300">        | Geometry Distributions                                                                               |  ICCV 2025  | [Paper](https://arxiv.org/pdf/2411.16076) |
 | <img src="assets/img/functional_diffusion.jpg" width="300"> | Functional Diffusion | CVPR 2024 | [Paper](https://arxiv.org/abs/2311.15435) <br> [Code](https://github.com/1zb/functional-diffusion) <br> [Project](https://1zb.github.io/functional-diffusion/) |
