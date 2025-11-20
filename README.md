@@ -229,6 +229,22 @@
 | <img src="assets/img/BAE-NET.jpg" width="300"> | BAE-NET: Branched Autoencoder for Shape Co-Segmentation | ICCV 2019 | [Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_BAE-NET_Branched_Autoencoder_for_Shape_Co-Segmentation_ICCV_2019_paper.pdf) <br> [Code](https://github.com/czq142857/BAE-NET) |
 
 
+## Automatic Rigging
+
+| Preview | Title | Publication | Links |
+|:---:|:---|:---:|:---:|
+| <img src="assets/img/AutoConnect.jpg" width="300"> | Auto-Connect: Connectivity-Preserving RigFormer with Direct Preference Optimization | arXiv 2025 | [Paper](https://arxiv.org/pdf/2506.11430) <br> [Project](https://autoconnectrig.github.io/) |
+| <img src="assets/img/UniRig.jpg" width="300"> | One Model to Rig Them All: Diverse Skeleton Rigging with UniRig | SIGGRAPH 2025 | [Paper](https://arxiv.org/pdf/2504.12451) <br> [Project](https://zjp-shadow.github.io/works/UniRig/) <br> [Code](https://github.com/VAST-AI-Research/UniRig) |
+| <img src="assets/img/RigAnything.jpg" width="300"> | RigAnything: Template-Free Autoregressive Rigging for Diverse 3D Assets | SIGGRAPH 2025 | [Paper](https://arxiv.org/pdf/2502.09615) <br> [Project](https://www.liuisabella.com/RigAnything/) <br> [Code](https://github.com/Isabella98Liu/RigAnything) |
+| <img src="assets/img/MagicArticulate.jpg" width="300"> | MagicArticulate: Make Your 3D Models Articulation-Ready | CVPR 2025 | [Paper](https://arxiv.org/pdf/2502.12135) <br> [Project](https://chaoyuesong.github.io/MagicArticulate/) <br> [Code](https://github.com/Seed3D/MagicArticulate) |
+| <img src="assets/img/MakeItAnimatable.jpg" width="300"> | Make-It-Animatable: An Efficient Framework for Authoring Animation-Ready 3D Characters | CVPR 2025 | [Paper](https://arxiv.org/pdf/2411.18197) <br> [Project](https://jasongzy.github.io/Make-It-Animatable/) <br> [Code](https://github.com/jasongzy/Make-It-Animatable) |
+| <img src="assets/img/HumanRig.jpg" width="300"> | HumanRig: Learning Automatic Rigging for Humanoid Character in a Large Scale Dataset | arXiv 2024 | [Paper](https://arxiv.org/pdf/2412.02317) |
+| <img src="assets/img/RigNet.jpg" width="300"> | RigNet: Neural Rigging for Articulated Characters | SIGGRAPH 2020 | [Paper](https://arxiv.org/pdf/2005.00559) <br> [Project](https://zhan-xu.github.io/rig-net/) <br> [Code](https://github.com/zhan-xu/RigNet) |
+| <img src="assets/img/TARig.jpg" width="300"> | TARig: Adaptive Template-Aware Neural Rigging for Humanoid Characters | Computers & Graphics 2023 | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0097849323000730) |
+| <img src="assets/img/AnimSkelVolNet.jpg" width="300"> | Predicting Animation Skeletons for 3D Articulated Models via Volumetric Nets | 3DV 2019 | [Paper](https://arxiv.org/pdf/1908.08506) <br> [Project](https://people.cs.umass.edu/~zhanxu/projects/AnimSkelVolNet/) <br> [Code](https://github.com/zhan-xu/AnimSkelVolNet) |
+| <img src="assets/img/Pinocchio.jpg" width="300"> | Automatic Rigging and Animation of 3D Characters | SIGGRAPH 2007 | [Paper](https://people.csail.mit.edu/ibaran/papers/2007-SIGGRAPH-Pinocchio.pdf) <br> [Project](https://people.csail.mit.edu/ibaran/autorig/) <br> [Code](https://github.com/elrond79/Pinocchio) |
+
+
 ## Others (Not yet classified)
 |                                   Preview                                  | Title                                                                                                | Publication |                   Links                   |
 | :------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------- | :---------: | :---------------------------------------: |
