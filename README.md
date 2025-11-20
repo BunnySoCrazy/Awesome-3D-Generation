@@ -10,6 +10,8 @@
 🔥🔥🔥 Also check out our awesome list about [Neural CAD](https://github.com/BunnySoCrazy/Awesome-Neural-CAD).
 
 
+#### 📚 Topics
+[Mesh](#mesh) • [Implicit Shape Representations](#implicit-shape-representations-sdf-and-occupancy-fields-etc) • [Point Cloud](#point-cloud) • [NeRF](#nerf) • [3D Gaussian Splatting](#3d-gaussian-splatting) • [CAD](#cad) • [Voxel](#voxel) • [Part-based 3D](#part-based-3d) • [Automatic Rigging](#automatic-rigging) • [Others](#others-not-yet-classified) • [Industry Technical Reports](#industry-technical-reports)
 
 ## Mesh
 
