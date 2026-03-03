@@ -17,6 +17,9 @@
 
 | Preview | Title | Publication | Links |
 |:---:|:---|:---:|:---:|
+| <img src="assets/img/AssetFormer.jpg" width="300"> | AssetFormer: Modular 3D Assets Generation with Autoregressive Transformer | ICLR 2026 | [Paper](https://arxiv.org/pdf/2602.12100) |
+| <img src="assets/img/MeshMosaic.jpg" width="300"> | MeshMosaic: Scaling Artist Mesh Generation via Local-to-Global Assembly | arXiv 2025 | [Paper](https://arxiv.org/pdf/2509.19995) <br> [Project](https://xrvitd.github.io/MeshMosaic/index.html) <br> [Code](https://github.com/Xrvitd/MeshMosaic) |
+| <img src="assets/img/MeshCraft.jpg" width="300"> | MeshCraft: Exploring Efficient and Controllable Mesh Generation with Flow-based DiTs | arXiv 2025 | [Paper](https://arxiv.org/pdf/2503.23022) |
 | <img src="assets/img/QuadGPT.jpg" width="300"> | QuadGPT: Native Quadrilateral Mesh Generation with Autoregressive Models | arXiv 2025 | [Paper](https://arxiv.org/pdf/2509.21420) |
 | <img src="assets/img/ARMesh.jpg" width="300"> | ARMesh: Autoregressive Mesh Generation via Next-Level-of-Detail Prediction | arXiv 2025 | [Paper](https://arxiv.org/pdf/2509.20824) <br> [Project](https://jblei.site/proj/armesh) |
 | <img src="assets/img/MeshCoder.jpg" width="300"> | MeshCoder: LLM-Powered Structured Mesh Code Generation from Point Clouds | arXiv 2025 | [Paper](https://arxiv.org/pdf/2508.14879) <br> [Project](https://daibingquan.github.io/MeshCoder/) <br> [Code](https://github.com/InternRobotics/MeshCoder) |
