@@ -51,6 +51,7 @@
 
 | Preview | Title | Publication | Links |
 |:---:|:---|:---:|:---:|
+| <img src="assets/img/ActionMesh.jpg" width="300"> | ActionMesh: Animated 3D Mesh Generation with Temporal 3D Diffusion | arXiv 2026 | [Paper](https://arxiv.org/pdf/2601.16148) <br> [Project](https://remysabathier.github.io/actionmesh/) <br> [Code](https://github.com/facebookresearch/actionmesh) |
 | <img src="assets/img/UniLat3D.png" width="300"> | UniLat3D: Geometry-Appearance Unified Latents for Single-Stage 3D Generation | arXiv 2025 | [Paper](https://arxiv.org/pdf/2509.25079) <br> [Project](https://unilat3d.github.io/) <br> [Code](https://github.com/UniLat3D/UniLat3D) |
 | <img src="assets/img/TripoSF.jpg" width="300"> | SparseFlex: High-Resolution and Arbitrary-Topology 3D Shape Modeling (TripoSF) | arXiv 2025 | [Paper](https://arxiv.org/pdf/2503.21732) <br> [Code](https://github.com/VAST-AI-Research/TripoSF) |
 | <img src="assets/img/Ultra3D.jpg" width="300"> | Ultra3D: Efficient and High-Fidelity 3D Generation with Part Attention | arXiv 2025 | [Paper](https://arxiv.org/pdf/2507.17745.pdf) |
