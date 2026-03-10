@@ -11,7 +11,7 @@
 
 
 #### 📚 Topics
-[Mesh](#mesh) • [Implicit Shape Representations](#implicit-shape-representations-sdf-and-occupancy-fields-etc) • [Point Cloud](#point-cloud) • [NeRF](#nerf) • [3D Gaussian Splatting](#3d-gaussian-splatting) • [CAD](#cad) • [Voxel](#voxel) • [Part-based 3D](#part-based-3d) • [Automatic Rigging](#automatic-rigging) • [Others](#others-not-yet-classified) • [Industry Technical Reports](#industry-technical-reports)
+[Mesh](#mesh) • [Implicit Shape Representations](#implicit-shape-representations-sdf-and-occupancy-fields-etc) • [Point Cloud](#point-cloud) • [NeRF](#nerf) • [3D Gaussian Splatting](#3d-gaussian-splatting) • [CAD](#cad) • [Voxel](#voxel) • [Part-based 3D](#part-based-3d) • [3D Editing](#3d-editing) • [Automatic Rigging](#automatic-rigging) • [Others](#others-not-yet-classified) • [Industry Technical Reports](#industry-technical-reports)
 
 ## Mesh
 
@@ -245,6 +245,24 @@
 | <img src="assets/img/ProGRIP.jpg" width="300"> | Unsupervised Learning of Shape Programs with Repeatable Implicit Parts | NeurIPS 2022 | [Paper](https://papers.nips.cc/paper_files/paper/2022/hash/f6adf61977467560f79b95485d1f3a79-Abstract-Conference.html) <br> [Project](https://progrip-project.github.io/) |
 | <img src="assets/img/SPAGHETTI.jpg" width="300"> | SPAGHETTI: Editing Implicit Shapes Through Part Aware Generation | ACM TOG 2022 | [Paper](https://arxiv.org/pdf/2201.13168) <br> [Code](https://github.com/amirhertz/spaghetti) <br> [Project](https://amirhertz.github.io/spaghetti/) |
 | <img src="assets/img/BAE-NET.jpg" width="300"> | BAE-NET: Branched Autoencoder for Shape Co-Segmentation | ICCV 2019 | [Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_BAE-NET_Branched_Autoencoder_for_Shape_Co-Segmentation_ICCV_2019_paper.pdf) <br> [Code](https://github.com/czq142857/BAE-NET) |
+
+
+## 3D Editing
+
+| Preview | Title | Publication | Links |
+|:---:|:---|:---:|:---:|
+| <img src="assets/img/Fuse3D.jpg" width="300"> | Fuse3D: Generating 3D Assets Controlled by Multi-Image Fusion | SIGGRAPH Asia 2025 | [Paper](https://arxiv.org/pdf/2602.17040) <br> [Project](https://fuse3d.org/) <br> [Code](https://github.com/JINNMnm/Fuse3D) |
+| <img src="assets/img/3DGSDrag.jpg" width="300"> | 3DGS-Drag: Dragging Gaussians for Intuitive Point-Based 3D Editing | ICLR 2025 | [Paper](https://arxiv.org/pdf/2601.07963) |
+| <img src="assets/img/NativeEdit3D.jpg" width="300"> | Native 3D Editing with Full Attention | arXiv 2025 | [Paper](https://arxiv.org/pdf/2511.17501) |
+| <img src="assets/img/3DLATTE.jpg" width="300"> | 3D-LATTE: Latent Space 3D Editing from Textual Instructions | arXiv 2025 | [Paper](https://arxiv.org/pdf/2509.00269) <br> [Project](https://mparelli.github.io/3d-latte/) |
+| <img src="assets/img/DragYourGaussian.jpg" width="300"> | Drag Your Gaussian: Effective Drag-Based Editing with Score Distillation for 3D Gaussian Splatting | SIGGRAPH 2025 | [Paper](https://arxiv.org/pdf/2501.18672) <br> [Project](https://quyans.github.io/Drag-Your-Gaussian/) <br> [Code](https://github.com/Quyans/Drag-Your-Gaussian) |
+| <img src="assets/img/PerturbRevise.jpg" width="300"> | Perturb-and-Revise: Flexible 3D Editing with Generative Trajectories | CVPR 2025 | [Paper](https://arxiv.org/pdf/2412.05279) <br> [Project](https://susunghong.github.io/Perturb-and-Revise/) |
+| <img src="assets/img/Instant3dit.jpg" width="300"> | Instant3dit: Multiview Inpainting for Fast Editing of 3D Objects | CVPR 2025 | [Paper](https://arxiv.org/pdf/2412.00518) <br> [Project](https://amirbarda.github.io/Instant3dit.github.io/) <br> [Code](https://github.com/amirbarda/Instant3dit) |
+| <img src="assets/img/ShapeFusion.jpg" width="300"> | ShapeFusion: A 3D Diffusion Model for Localized Shape Editing | ECCV 2024 | [Paper](https://arxiv.org/pdf/2403.19773) <br> [Project](https://rolpotamias.github.io/Shapefusion/) |
+| <img src="assets/img/GaussCtrl.jpg" width="300"> | GaussCtrl: Multi-View Consistent Text-Driven 3D Gaussian Splatting Editing | ECCV 2024 | [Paper](https://arxiv.org/pdf/2403.08733) <br> [Project](https://gaussctrl.active.vision/) <br> [Code](https://github.com/ActiveVisionLab/gaussctrl) |
+| <img src="assets/img/GaussianGrouping.jpg" width="300"> | Gaussian Grouping: Segment and Edit Anything in 3D Scenes | ECCV 2024 | [Paper](https://arxiv.org/pdf/2312.00732) <br> [Code](https://github.com/lkeab/gaussian-grouping) |
+| <img src="assets/img/GaussianEditor.jpg" width="300"> | GaussianEditor: Editing 3D Gaussians Delicately with Text Instructions | CVPR 2024 | [Paper](https://arxiv.org/pdf/2311.16037) <br> [Project](https://gaussianeditor.github.io/) |
+| <img src="assets/img/InstructNeRF2NeRF.jpg" width="300"> | Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions | ICCV 2023 | [Paper](https://arxiv.org/pdf/2303.12789) <br> [Project](https://instruct-nerf2nerf.github.io/) <br> [Code](https://github.com/ayaanzhaque/instruct-nerf2nerf) |
 
 
 ## Automatic Rigging
