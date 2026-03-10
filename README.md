@@ -211,7 +211,10 @@
 |:---:|:---|:---:|:---:|
 | <img src="assets/img/PartNeXt.jpg" width="300"> | PartNeXt: A Next-Generation Dataset for Fine-Grained and Hierarchical 3D Part Understanding | arXiv 2025 | [Paper](https://arxiv.org/pdf/2510.20155) |
 | <img src="assets/img/FullPart.jpg" width="300"> | FullPart: Generating each 3D Part at Full Resolution | arXiv 2025 | [Paper](https://arxiv.org/pdf/2510.26140) |
+| <img src="assets/img/PartSAM.jpg" width="300"> | PartSAM: A Scalable Promptable Part Segmentation Model Trained on Native 3D Data | arXiv 2025 | [Paper](https://arxiv.org/pdf/2509.21965) |
 | <img src="assets/img/BANG.jpg" width="300"> | BANG: Dividing 3D Assets via Generative Exploded Dynamics | arXiv 2025 | [Paper](https://arxiv.org/pdf/2507.21493) |
+| <img src="assets/img/AutoPartGen.jpg" width="300"> | AutoPartGen: Autoregressive 3D Part Generation and Discovery | NeurIPS 2025 | [Paper](https://arxiv.org/pdf/2507.13346) |
+| <img src="assets/img/CoPart.jpg" width="300"> | From One to More: Contextual Part Latents for 3D Generation | ICCV 2025 | [Paper](https://arxiv.org/pdf/2507.08772) <br> [Project](https://hkdsc.github.io/project/copart/) |
 | <img src="assets/img/Assembler.jpg" width="300"> | Assembler: Scalable 3D Part Assembly via Anchor Point Diffusion | arXiv 2025 | [Paper](https://arxiv.org/pdf/2506.17074) |
 | <img src="assets/img/DualVolumePacking.jpg" width="300"> | Efficient Part-level 3D Object Generation via Dual Volume Packing | arXiv 2025 | [Paper](https://arxiv.org/pdf/2506.09980) |
 | <img src="assets/img/MeshArt.jpg" width="300"> | MeshArt: Generating Articulated Meshes with Structure-guided Transformers | CVPR 2025 | [Paper](https://arxiv.org/pdf/2412.11596) <br> [Code](https://github.com/DaoyiG/MeshArt) |
@@ -219,10 +222,13 @@
 | <img src="assets/img/OmniPart.jpg" width="300"> | OmniPart: Part-Aware 3D Generation with Semantic Decoupling and Structural Cohesion | arXiv 2025 | [Paper](https://arxiv.org/pdf/2507.06165) |
 | <img src="assets/img/PartCrafter.jpg" width="300"> | PartCrafter: Structured 3D Mesh Generation via Compositional Latent Diffusion Transformers | arXiv 2025 | [Paper](https://arxiv.org/pdf/2506.05573) |
 | <img src="assets/img/HoloPart.jpg" width="300"> | HoloPart: Generative 3D Part Amodal Segmentation | arXiv 2025 | [Paper](https://arxiv.org/pdf/2504.07943) <br> [Code](https://github.com/VAST-AI-Research/HoloPart) |
+| <img src="assets/img/PartField.jpg" width="300"> | PartField: Learning 3D Feature Fields for Part Segmentation and Beyond | ICCV 2025 | [Paper](https://arxiv.org/pdf/2504.11451) <br> [Project](https://research.nvidia.com/labs/toronto-ai/partfield-release/) <br> [Code](https://github.com/nv-tlabs/PartField) |
 | <img src="assets/img/SPAFormer.jpg" width="300"> | SPAFormer: Sequential 3D Part Assembly with Transformers | 3DV 2025 | [Paper](https://arxiv.org/pdf/2403.05874) <br> [Code](https://github.com/xuboshen/SPAFormer) |
 | <img src="assets/img/PASTA.jpg" width="300"> | PASTA: Controllable Part-Aware Shape Generation with Autoregressive Transformers | arXiv 2024 | [Paper](https://arxiv.org/pdf/2407.13677) |
-| <img src="assets/img/PartGen.jpg" width="300"> | PartGen: Part-level 3D Generation and Reconstruction with Multi-View Diffusion Models | arXiv 2024 | [Paper](https://arxiv.org/pdf/2412.18608) <br> [Project](https://silent-chen.github.io/PartGen/) |
+| <img src="assets/img/SAMPart3D.jpg" width="300"> | SAMPart3D: Segment Any Part in 3D Objects | arXiv 2024 | [Paper](https://arxiv.org/pdf/2411.07184) <br> [Project](https://yhyang-myron.github.io/SAMPart3D-website/) |
+| <img src="assets/img/PartGen.jpg" width="300"> | PartGen: Part-level 3D Generation and Reconstruction with Multi-View Diffusion Models | CVPR 2025 | [Paper](https://arxiv.org/pdf/2412.18608) <br> [Project](https://silent-chen.github.io/PartGen/) |
 | <img src="assets/img/Part123.jpg" width="300"> | Part123: Part-aware 3D Reconstruction from a Single-view Image | SIGGRAPH 2024 | [Paper](https://arxiv.org/pdf/2405.16888) <br> [Project](https://liuar0512.github.io/part123_official_page/) |
+| <img src="assets/img/PartAwareVoxel.jpg" width="300"> | Part-aware Shape Generation with Latent 3D Diffusion of Neural Voxel Fields | IEEE TVCG | [Paper](https://arxiv.org/pdf/2405.00998) |
 | <img src="assets/img/DAE-NET.jpg" width="300"> | DAE-Net: Deforming Auto-Encoder for fine-grained shape co-segmentation | SIGGRAPH 2024 | [Paper](https://arxiv.org/pdf/2311.13125) <br> [Code](https://github.com/czq142857/DAE-Net) |
 | <img src="assets/img/StructureNet.jpg" width="300"> | StructureNet: Hierarchical Graph Networks for 3D Shape Generation | SIGGRAPH Asia 2019 | [Paper](https://arxiv.org/pdf/1908.00575) <br> [Code](https://github.com/daerduoCarey/structurenet) |
 | <img src="assets/img/PartNet.jpg" width="300"> | PartNet: A Large-scale Benchmark for Fine-grained and Hierarchical Part-level 3D Object Understanding | CVPR 2019 | [Paper](https://arxiv.org/pdf/1812.02713) [Dataset](https://partnet.cs.stanford.edu/) |
