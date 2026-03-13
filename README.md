@@ -151,7 +151,7 @@
 | Preview | Title | Publication | Links |
 |:---:|:---|:---:|:---:|
 | <img src="assets/img/ReCAD_RL.jpg" width="300"> | ReCAD: Reinforcement Learning Enhanced Parametric CAD Model Generation with Vision-Language Models | arXiv 2025 | [Paper](https://arxiv.org/pdf/2512.06328) |
-| <img src="assets/img/BrepGPT.jpg" width="300"> | BrepGPT: Autoregressive B-rep Generation with Voronoi Half-Patch | SIGGRAPH Asia 2025 | [Paper](https://arxiv.org/abs/2511.22171) |
+| <img src="assets/img/BrepGPT.jpg" width="300"> | BrepGPT: Autoregressive B-rep Generation with Voronoi Half-Patch | SIGGRAPH Asia 2025 | [Paper](https://arxiv.org/abs/2511.22171) <br> [Code](https://github.com/BunnySoCrazy/BrepGPT) |
 | <img src="assets/img/AutoBrep.jpg" width="300"> | AutoBrep: Autoregressive B-Rep Generation with Unified Topology and Geometry | SIGGRAPH Asia 2025 | [Paper](https://arxiv.org/abs/2512.03018) <br> [Code](https://github.com/AutodeskAILab/AutoBrep) |
 | <img src="assets/img/GeoCAD.jpg" width="300"> | GeoCAD: Local Geometry-Controllable CAD Generation | NeurIPS 2025 | [Paper](https://arxiv.org/abs/2506.10337) <br> [Code](https://github.com/Zhanwei-Z/GeoCAD) |
 | <img src="assets/img/CAD-Coder.jpg" width="300"> | CAD-Coder: Text-to-CAD Generation with Chain-of-Thought and Geometric Reward | arXiv 2025 | [Paper](https://arxiv.org/pdf/2505.19713) |
