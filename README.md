@@ -17,6 +17,13 @@
 
 | Preview | Title | Publication | Links |
 |:---:|:---|:---:|:---:|
+| <img src="assets/img/MeshyT2.jpg" width="300"> | Meshy T2: Fast Native Mesh Generation with Flow Matching | arXiv 2026 | [Paper](https://arxiv.org/pdf/2607.28675) <br> [Code](https://github.com/meshy-dev/meshy-t2) |
+| <img src="assets/img/Nexus.jpg" width="300"> | Nexus: Native Mesh Generation with Diffusion | ACM TOG 2026 | [Paper](https://arxiv.org/pdf/2607.13563) |
+| <img src="assets/img/LATO2.jpg" width="300"> | LATO.2: Factorized 3D Mesh Generation with Vertex and Topology Flow | arXiv 2026 | [Paper](https://arxiv.org/pdf/2607.10623) <br> [Code](https://github.com/LoHhhha/LATO.2) |
+| <img src="assets/img/MeshBDF.jpg" width="300"> | Mesh BDF: Barycentric Dominance Field for 3D Native Mesh Generation | arXiv 2026 | [Paper](https://arxiv.org/pdf/2606.31777) <br> [Project](https://gaochao-s.github.io/pages/MeshBDF/) <br> [Code](https://github.com/gaochao-s/MeshBDF) |
+| <img src="assets/img/PolyFlow.jpg" width="300"> | PolyFlow: Continuous Topology Embedding Flow Matching for Artist-style Mesh Generation | arXiv 2026 | [Paper](https://arxiv.org/pdf/2606.30673) |
+| <img src="assets/img/MeshFlow.jpg" width="300"> | MeshFlow: Mesh Generation with Equivariant Flow Matching | SIGGRAPH 2026 | [Paper](https://arxiv.org/pdf/2606.23489) <br> [Project](https://qiisun.github.io/MeshFlow) <br> [Code](https://github.com/qiisun/MeshFlow) |
+| <img src="assets/img/LATO.jpg" width="300"> | LATO: 3D Mesh Flow Matching with Structured TOpology Preserving LAtents | ICML 2026 | [Paper](https://arxiv.org/pdf/2603.06357) <br> [Project](https://tianhaozhao668.github.io/LATO/) <br> [Code](https://github.com/TianhaoZhao668/LATO) |
 | <img src="assets/img/AssetFormer.jpg" width="300"> | AssetFormer: Modular 3D Assets Generation with Autoregressive Transformer | ICLR 2026 | [Paper](https://arxiv.org/pdf/2602.12100) |
 | <img src="assets/img/MeshMosaic.jpg" width="300"> | MeshMosaic: Scaling Artist Mesh Generation via Local-to-Global Assembly | arXiv 2025 | [Paper](https://arxiv.org/pdf/2509.19995) <br> [Project](https://xrvitd.github.io/MeshMosaic/index.html) <br> [Code](https://github.com/Xrvitd/MeshMosaic) |
 | <img src="assets/img/MeshCraft.jpg" width="300"> | MeshCraft: Exploring Efficient and Controllable Mesh Generation with Flow-based DiTs | arXiv 2025 | [Paper](https://arxiv.org/pdf/2503.23022) |
