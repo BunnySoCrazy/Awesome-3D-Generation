@@ -11,7 +11,24 @@
 
 
 #### 📚 Topics
-[Mesh](#mesh) • [Implicit Shape Representations](#implicit-shape-representations-sdf-and-occupancy-fields-etc) • [Point Cloud](#point-cloud) • [NeRF](#nerf) • [3D Gaussian Splatting](#3d-gaussian-splatting) • [CAD](#cad) • [Voxel](#voxel) • [Part-based 3D](#part-based-3d) • [3D Editing](#3d-editing) • [Automatic Rigging](#automatic-rigging) • [Others](#others-not-yet-classified) • [Industry Technical Reports](#industry-technical-reports)
+[Articulated 3D](#articulated-3d) • [Mesh](#mesh) • [Implicit Shape Representations](#implicit-shape-representations-sdf-and-occupancy-fields-etc) • [Point Cloud](#point-cloud) • [NeRF](#nerf) • [3D Gaussian Splatting](#3d-gaussian-splatting) • [CAD](#cad) • [Voxel](#voxel) • [Part-based 3D](#part-based-3d) • [3D Editing](#3d-editing) • [Automatic Rigging](#automatic-rigging) • [Others](#others-not-yet-classified) • [Industry Technical Reports](#industry-technical-reports)
+
+## Articulated 3D
+
+| Preview | Title | Publication | Links |
+|:---:|:---|:---:|:---:|
+| <img src="assets/img/Instruct-Particulate.jpg" width="300"> | Instruct-Particulate: Scaling Feed-Forward 3D Object Articulation with Kinematic Control | arXiv 2026 | [Paper](https://arxiv.org/pdf/2606.14699) <br> [Project](https://instruct-particulate.github.io/) |
+| <img src="assets/img/Articraft.jpg" width="300"> | Articraft: An Agentic System for Scalable Articulated 3D Asset Generation | arXiv 2026 | [Paper](https://arxiv.org/pdf/2605.15187) <br> [Project](https://articraft3d.github.io/) |
+| <img src="assets/img/Particulate.jpg" width="300"> | Particulate: Feed-Forward 3D Object Articulation | CVPR 2026 | [Paper](https://arxiv.org/pdf/2512.11798) <br> [Project](https://ruiningli.com/particulate) |
+| <img src="assets/img/PhysX-Anything.jpg" width="300"> | PhysX-Anything: Simulation-Ready Physical 3D Assets from Single Image | CVPR 2026 | [Paper](https://arxiv.org/pdf/2511.13648) <br> [Project](https://physx-anything.github.io/) <br> [Code](https://github.com/ziangcao0312/PhysX-Anything) |
+| <img src="assets/img/URDF-Anything.jpg" width="300"> | URDF-Anything: Constructing Articulated Objects with 3D Multimodal Language Model | NeurIPS 2025 | [Paper](https://arxiv.org/pdf/2511.00940) <br> [Project](https://lzvsdy.github.io/URDF-Anything/) |
+| <img src="assets/img/DreamArt.jpg" width="300"> | DreamArt: Generating Interactable Articulated Objects from a Single Image | arXiv 2025 | [Paper](https://arxiv.org/pdf/2507.05763) <br> [Project](https://dream-art-0.github.io/DreamArt/) |
+| <img src="assets/img/MeshArt.jpg" width="300"> | MeshArt: Generating Articulated Meshes with Structure-guided Transformers | CVPR 2025 | [Paper](https://arxiv.org/pdf/2412.11596) <br> [Code](https://github.com/DaoyiG/MeshArt) |
+| <img src="assets/img/ArtFormer.jpg" width="300"> | ArtFormer: Controllable Generation of Diverse 3D Articulated Objects | CVPR 2025 | [Paper](https://arxiv.org/pdf/2412.07237) <br> [Code](https://github.com/ShuYuMo2003/ArtFormer) |
+| <img src="assets/img/SINGAPO.jpg" width="300"> | SINGAPO: Single Image Controlled Generation of Articulated Parts in Objects | ICLR 2025 | [Paper](https://arxiv.org/pdf/2410.16499) <br> [Project](https://3dlg-hcvc.github.io/singapo/) <br> [Code](https://github.com/3dlg-hcvc/singapo) |
+| <img src="assets/img/CAGE.jpg" width="300"> | CAGE: Controllable Articulation GEneration | CVPR 2024 | [Paper](https://arxiv.org/pdf/2312.09570) <br> [Project](https://3dlg-hcvc.github.io/cage/) <br> [Code](https://github.com/3dlg-hcvc/cage) |
+| <img src="assets/img/NAP.jpg" width="300"> | NAP: Neural 3D Articulated Object Prior | NeurIPS 2023 | [Paper](https://arxiv.org/pdf/2305.16315) <br> [Project](https://jiahuilei.com/projects/nap/) <br> [Code](https://github.com/JiahuiLei/NAP) |
+
 
 ## Mesh
 
